@@ -12,7 +12,8 @@ I am passionate about robotics and embedded systems and strive to build tools to
 -->
 
 ## My Projects
-[Nanosatellite Testbed: ](https://github.com/loby368/Nanosatellite-Testbed) This is my capstone thesis project as part of my MSc Aerospace Engineer at KTH, Stockholm. I developed an attitude control testbed simulating zero gravity to run novel control algorithms. This project exposed me to embedded systems development on an STM32 and ignited my excitement to work more in embedded systems in my career. I developed a C wrapper to run a Simulink-embedded coder algorithm on an STM32, developed sensor drivers, implemented I2C, Serial and CANBus protocols, and ran control system experiments.
+[Nanosatellite Testbed: ](https://github.com/loby368/Nanosatellite-Testbed) This is my capstone thesis project as part of my MSc Aerospace Engineer at KTH, Stockholm. 
+I developed an attitude control testbed simulating zero gravity to run novel control algorithms. This project exposed me to embedded systems development on an STM32 and ignited my excitement to work more in embedded systems in my career. I developed a C wrapper to run a Simulink-embedded coder algorithm on an STM32, developed sensor drivers, implemented I2C, Serial and CANBus protocols, and ran control system experiments.
 
 ## Career Ambitions
 I have always been passionate about the intersection between mechanical, electronic, and computer systems.
