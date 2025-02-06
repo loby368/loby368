@@ -16,5 +16,5 @@ I have always been passionate about the intersection between mechanical, electro
 My dream job is developing C/C++ applications for embedded real-time systems such as satellites, medical robots, and autonomous vehicles.
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loby368&langs_count=10&layout=compact&hide=jupyter%20notebook" alt="Louí's Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loby368&langs_count=10&layout=compact&hide=jupyter%20notebook,processing" alt="Louí's Top Languages" />
 </p>
